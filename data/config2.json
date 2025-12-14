@@ -1,0 +1,17 @@
+{
+  "labels": [
+    {"id": 0, "value": 1, "name": "J"},
+    {"id": 1, "value": 1, "name": "N"},
+    {"id": 2, "value": 1, "name": "Uzi"},
+    {"id": 3, "value": 1, "name": "V"},
+    {"id": 4, "value": 1, "name": "Nori"},
+    {"id": 5, "value": 1, "name": "N5"},
+    {"id": 6, "value": 1, "name": "N6"}
+  ],
+  "settings": {
+    "image_prefix": "SG",
+    "image_suffix_a": "a",
+    "image_suffix_b": "b",
+    "image_extension": "png"
+  }
+}
